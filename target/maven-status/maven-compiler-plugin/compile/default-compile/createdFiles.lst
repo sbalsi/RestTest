@@ -1,0 +1,11 @@
+s/balsi/rest_test/Customer.class
+s/balsi/rest_test/MicroMarket.class
+s/balsi/rest_test/service/MicroMarketFacadeREST.class
+s/balsi/rest_test/Customer_.class
+s/balsi/rest_test/service/DiscountCodeFacadeREST.class
+s/balsi/rest_test/DiscountCode.class
+s/balsi/rest_test/MicroMarket_.class
+s/balsi/rest_test/DiscountCode_.class
+s/balsi/rest_test/service/CustomerFacadeREST.class
+s/balsi/rest_test/service/ApplicationConfig.class
+s/balsi/rest_test/service/AbstractFacade.class
